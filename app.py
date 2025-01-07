@@ -1,4 +1,3 @@
-# Importing necessary modules and libraries
 from flask import Flask, render_template, request, redirect, url_for, session ,flash                                                                                       # request (for handling HTTP requests), redirect and url_for (for redirecting to other routes or URLs),                                                                                     # session (for managing user sessions), and flash (for displaying messages to the user).
 import sqlite3 
 import os
